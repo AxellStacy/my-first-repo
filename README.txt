@@ -1,3 +1,3 @@
 contoh tect random 
 
-git add
+git add..
